@@ -18,4 +18,4 @@ InclusiveHub is a web application designed for task management, promoting inclus
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/inclusivehub.git
+   git clone https://github.com/omer-mestan/InclusiveHub-A-Personal-Task-Management-Platform.git
